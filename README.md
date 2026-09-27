@@ -3,7 +3,7 @@ I'm an amateur, didn't know how to do it myself, so I used Claude. It worked eve
 
 Usage Steps:
 
-    1. Open the guide authored by nana on Steam Community:
+    1. Open the guide authored by nana and geerky42 on Steam Community:
        https://steamcommunity.com/sharedfiles/filedetails/?id=2786724419
 
     2. Copy the input sequence for the level you want to complete

@@ -1,0 +1,1 @@
+python keymacro.py --file sequence.txt --map mapping.json --delay 0.2 --hold 0.08

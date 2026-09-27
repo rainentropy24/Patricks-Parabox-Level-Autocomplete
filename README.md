@@ -1,4 +1,4 @@
-A python script that automatically completes levels in Patrick's Parabox
+A python script that automatically completes levels in Patrick's Parabox.
 I'm an amateur, didn't know how to do it myself, so I used Claude. It worked eventually, so I'm uploading for whoever else wants to use it.
 
 Usage Steps:
